@@ -1,9 +1,9 @@
 @import "tailwindcss";
-:root{
-    color-scheme: dark;
+:root {
+  color-scheme: dark;
 }
-*{
-    scroll-behavior: smooth;
+* {
+  scroll-behavior: smooth;
 }
 
-  
+/* I want to be the best */
